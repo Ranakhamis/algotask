@@ -2,6 +2,6 @@
 
 + Insertion Sort - Antonious
 + Selection Sort - Pola
-- Bubble Sort - Safwan
+- Bubble Sort - Safwan X
 + Quick Sort - Pola
 + Merge Sort - Rana
